@@ -46,19 +46,8 @@ Run 'npm install @aws-sdk/client-s3'
 Add a folder in the root called assets. This will be the folder in which we
 store our static site.
 
-Add a file inside the assets folder called index.html. Add the following html to
-your file:
-
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>My Website Home Page</title>
-  </head>
-  <body>
-    <h1>Welcome to my website</h1>
-    <p>Now hosted on Amazon S3!</p>
-  </body>
-</html>
+Add a file inside the assets folder called index.html.  
+Copy the html code in my assets/index.html file or create your own.
 
 #### Create Bucket
 
