@@ -9,7 +9,7 @@ page
 AWS DOCS LINK WHICH I REFERENCED FOR THIS.
 https://docs.aws.amazon.com/sdk-for-javascript/v3/developer-guide/javascript_s3_code_examples.html
 
-#### Staring Config
+#### Starting Config
 
 Open a new VS Code window. Create a folder called 'AWS_STATIC_SITE'
 
